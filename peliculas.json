@@ -1,0 +1,192 @@
+{
+    "peliculas": [
+        {
+                "id": "1",
+                "titulo": "Los mundos de Coraline",
+				"tituloAlternativo": "Coraline y la puerta secreta",
+                "director": "Henry Selick",
+                "cartel": "https://imagessl2.casadellibro.com/a/l/t0/72/9788498382372.jpg",
+                "anyo" : "2009",
+                "duracion" : "100 minutos",
+				"clasificacion" : "+7 años",
+				"presupuesto" : "60.000.000$",
+				"recaudacion" : "124.596.399$",
+                "generos": [{
+                    "genero": "Animación"
+                },{
+                    "genero": "Fantasía"
+                },{
+                    "genero": "Misterio"
+                },{
+                    "genero": "Infantil"
+                },{
+                    "genero": "Terror"
+                }]
+        },
+		{
+                "id": "2",
+                "titulo": "Pesadilla antes de Navidad",
+				"tituloAlternativo": "El extraño mundo de Jack",
+                "director": "Henry Selick",
+                "cartel": "https://imagessl1.casadellibro.com/m/ig/1/1272821.jpg",
+                "anyo" : "1993",
+                "duracion" : "73 minutos",
+				"clasificacion" : "+3 años",
+				"presupuesto" : "18.000.000$",
+				"recaudacion" : "75.082.668$",
+                "generos": [{
+                    "genero": "Musical"
+                },{
+                    "genero": "Cine de monstruos"
+                },{
+                    "genero": "Cine navideño"
+                }]
+        },
+		{
+                "id": "3",
+                "titulo": "La novia cadáver",
+				"tituloAlternativo": "El cadáver de la novia",
+                "director": "Tim Burton, Mike Johnson",
+                "cartel": "https://http2.mlstatic.com/dvd-el-cadaver-de-la-novia-tim-burton-D_NQ_NP_438421-MCO20783436240_062016-F.jpg",
+                "anyo" : "2005",
+                "duracion" : "76 minutos",
+				"clasificacion" : "+7 años",
+				"presupuesto" : "40.000.000$",
+				"recaudacion" : "117.195.061$",
+                "generos": [{
+                    "genero": "Comedia romántica"
+                },{
+                    "genero": "Fantasía"
+                },{
+                    "genero": "Cine de zombis"
+                }]
+        },
+		{
+                "id": "4",
+                "titulo": "James y el melocotón gigante",
+				"tituloAlternativo": "Jim y el durazno gigante",
+                "director": "Henry Selick",
+                "cartel": "https://www.pelisplay.tv/storage/imagenes/posters/opt_img_5bd63a626fc98_wkUunbHtGEJgQS7dzdaV2mZC0fc.jpg",
+                "anyo" : "1996",
+                "duracion" : "79 minutos",
+				"clasificacion" : "T",
+				"presupuesto" : "38.000.000$",
+				"recaudacion" : "28.946.127$",
+                "generos": [{
+                    "genero": "Animación"
+                },{
+                    "genero": "Fantasía"
+                },{
+                    "genero": "Aventuras"
+                }]
+        },
+		{
+                "id": "5",
+                "titulo": "Frankenweenie",
+				"tituloAlternativo": "",
+                "director": "Tim Burton",
+                "cartel": "https://pics.filmaffinity.com/frankenweenie-121243257-large.jpg",
+                "anyo" : "2012",
+                "duracion" : "87 minutos",
+				"clasificacion" : "+7 años",
+				"presupuesto" : "39.000.000$",
+				"recaudacion" : "81.491.068$",
+                "generos": [{
+                    "genero": "Animación"
+                }]
+        },
+		{
+                "id": "6",
+                "titulo": "Charlie y la fábrica de chocolate",
+				"tituloAlternativo": "",
+                "director": "Tim Burton",
+                "cartel": "https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2018/02/07/08/111750287.jpg",
+                "anyo" : "2005",
+                "duracion" : "115 minutos",
+				"clasificacion" : "+3 años",
+				"presupuesto" : "150.000.000$",
+				"recaudacion" : "475.000.000$",
+                "generos": [{
+                    "genero": "Comedia"
+                },{
+                    "genero": "Fantasía"
+                },{
+                    "genero": "Aventuras"
+                }]
+        },
+		{
+                "id": "7",
+                "titulo": "Alicia en el país de las maravillas",
+				"tituloAlternativo": "",
+                "director": "Tim Burton",
+                "cartel": "https://static.pelisplus.co/movie/cover/original/db4a58f72eac3be9d1142866a55bde53.jpg",
+                "anyo" : "2010",
+                "duracion" : "108 minutos",
+				"clasificacion" : "+7 años",
+				"presupuesto" : "205.000.000$",
+				"recaudacion" : "1.025.467.110$",
+                "generos": [{
+                    "genero": "Comedia"
+                },{
+                    "genero": "Fantasía"
+                },{
+                    "genero": "Aventuras"
+                }]
+        },
+		{
+                "id": "8",
+                "titulo": "Alicia a traves del espejo",
+				"tituloAlternativo": "",
+                "director": "James Bobin",
+                "cartel": "https://lh3.googleusercontent.com/-P-SLeOxvpKE/VtSKvcpgWZI/AAAAAAABHEw/FU38CKg1qS8/w530-h759-n-rw/Alice%2BTrough%2BThe%2BLooking%2BGlas%2B%25282016%2529%2BPoster%2BKey%2BArt%2B-%2B%2527It%2527s%2BTime%2BFor%2BA%2BLittle%2BMadness%2527.jpg",
+                "anyo" : "2016",
+                "duracion" : "113 minutos",
+				"clasificacion" : "+3 años",
+				"presupuesto" : "170.000.000$",
+				"recaudacion" : "295.463.225$",
+                "generos": [{
+                    "genero": "Comedia"
+                },{
+                    "genero": "Fantasía"
+                },{
+                    "genero": "Aventuras"
+                }]
+        },
+		{
+                "id": "9",
+                "titulo": "Maléfica",
+				"tituloAlternativo": "Maleficent",
+                "director": "Robert Stromberg",
+                "cartel": "https://cocederodecine.files.wordpress.com/2014/06/wpid-photo-20140622230722.jpg",
+                "anyo" : "2014",
+                "duracion" : "97 minutos",
+				"clasificacion" : "+7 años",
+				"presupuesto" : "180.000.000$",
+				"recaudacion" : "758.410.378$",
+                "generos": [{
+                    "genero": "Fantasía"
+                },{
+                    "genero": "Aventuras"
+                }]
+        },
+		{
+                "id": "10",
+                "titulo": "Kárate a muerte en Torremolinos",
+				"tituloAlternativo": "",
+                "director": "Pedro Temboury",
+                "cartel": "https://img.tviso.com/ES/poster/w430/b7/7e/b77e5ee8bbde39d4d3cacacb67b01fd4.jpg",
+                "anyo" : "2003",
+                "duracion" : "79 minutos",
+				"clasificacion" : "+18 años",
+				"presupuesto" : "Indeterminado",
+				"recaudacion" : "Indeterminado",
+                "generos": [{
+                    "genero": "Comedia"
+                },{
+                    "genero": "Terror"
+                },{
+                    "genero": "Acción"
+                }]
+        }
+    ]
+}
